@@ -2,8 +2,8 @@
 #include <MsTimer2.h>
 #include <math.h>
 #define a1 150
-#define enA  6               // 第二軸Enable腳位
-#define in1 8               // 第二軸(+),輸出時第二軸正轉
+#define enA  6               // 第一軸Enable腳位
+#define in1 8               // 第一軸(+),輸出時第一軸正轉
 #define in2 9 
 #define a2 50
 #define enB  7               // 第二軸Enable腳位
